@@ -1,0 +1,9 @@
+E:\Lab6\Lab6PropClasses\bin\Debug\Lab6PropClasses.dll
+E:\Lab6\Lab6PropClasses\bin\Debug\Lab6PropClasses.pdb
+E:\Lab6\Lab6PropClasses\bin\Debug\ToolsCSharp.dll
+E:\Lab6\Lab6PropClasses\bin\Debug\ToolsCSharp.pdb
+E:\Lab6\Lab6PropClasses\obj\Debug\Lab6PropClasses.csprojResolveAssemblyReference.cache
+E:\Lab6\Lab6PropClasses\obj\Debug\Lab6PropClasses.csproj.CoreCompileInputs.cache
+E:\Lab6\Lab6PropClasses\obj\Debug\Lab6PropClasses.csproj.CopyComplete
+E:\Lab6\Lab6PropClasses\obj\Debug\Lab6PropClasses.dll
+E:\Lab6\Lab6PropClasses\obj\Debug\Lab6PropClasses.pdb

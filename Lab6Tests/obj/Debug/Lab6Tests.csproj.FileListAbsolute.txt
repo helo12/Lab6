@@ -1,0 +1,16 @@
+E:\Lab6\Lab6Tests\bin\Debug\Lab6Tests.dll
+E:\Lab6\Lab6Tests\bin\Debug\Lab6Tests.pdb
+E:\Lab6\Lab6Tests\bin\Debug\Lab6PropClasses.dll
+E:\Lab6\Lab6Tests\bin\Debug\nunit.framework.dll
+E:\Lab6\Lab6Tests\bin\Debug\ToolsCSharp.dll
+E:\Lab6\Lab6Tests\bin\Debug\ToolsCSharp.pdb
+E:\Lab6\Lab6Tests\bin\Debug\Lab6PropClasses.pdb
+E:\Lab6\Lab6Tests\bin\Debug\nunit.framework.pdb
+E:\Lab6\Lab6Tests\bin\Debug\nunit.framework.xml
+E:\Lab6\Lab6Tests\obj\Debug\Lab6Tests.csprojResolveAssemblyReference.cache
+E:\Lab6\Lab6Tests\obj\Debug\Lab6Tests.csproj.CoreCompileInputs.cache
+E:\Lab6\Lab6Tests\obj\Debug\Lab6Tests.csproj.CopyComplete
+E:\Lab6\Lab6Tests\obj\Debug\Lab6Tests.dll
+E:\Lab6\Lab6Tests\obj\Debug\Lab6Tests.pdb
+E:\Lab6\Lab6Tests\bin\Debug\Lab6DBClasses.dll
+E:\Lab6\Lab6Tests\bin\Debug\Lab6DBClasses.pdb
