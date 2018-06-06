@@ -48,8 +48,10 @@
   <ItemGroup>
     <Compile Include="CustomerDBTest.cs" />
     <Compile Include="CustomerPropTest.cs" />
+    <Compile Include="CustomerTest.cs" />
     <Compile Include="ProductDBTests.cs" />
     <Compile Include="ProductPropsTest.cs" />
+    <Compile Include="ProductsTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -59,6 +61,10 @@
     <ProjectReference Include="..\FrameworkLibrary\ToolsCSharp\ToolsCSharp.csproj">
       <Project>{7f06622a-845c-4b38-9e3f-521189851bbd}</Project>
       <Name>ToolsCSharp</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Lab6Classes\Lab6Classes.csproj">
+      <Project>{fdf764c6-3ac9-4dac-9376-1d002c359277}</Project>
+      <Name>Lab6Classes</Name>
     </ProjectReference>
     <ProjectReference Include="..\Lab6DBClasses\Lab6DBClasses.csproj">
       <Project>{e67acee9-09cd-4b35-b9f8-0e4a33ee29dd}</Project>

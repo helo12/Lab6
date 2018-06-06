@@ -7,3 +7,12 @@ E:\Lab6\Lab6PropClasses\obj\Debug\Lab6PropClasses.csproj.CoreCompileInputs.cache
 E:\Lab6\Lab6PropClasses\obj\Debug\Lab6PropClasses.csproj.CopyComplete
 E:\Lab6\Lab6PropClasses\obj\Debug\Lab6PropClasses.dll
 E:\Lab6\Lab6PropClasses\obj\Debug\Lab6PropClasses.pdb
+C:\Users\Student\Desktop\Lab6\Lab6PropClasses\bin\Debug\Lab6PropClasses.dll
+C:\Users\Student\Desktop\Lab6\Lab6PropClasses\bin\Debug\Lab6PropClasses.pdb
+C:\Users\Student\Desktop\Lab6\Lab6PropClasses\bin\Debug\ToolsCSharp.dll
+C:\Users\Student\Desktop\Lab6\Lab6PropClasses\bin\Debug\ToolsCSharp.pdb
+C:\Users\Student\Desktop\Lab6\Lab6PropClasses\obj\Debug\Lab6PropClasses.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Lab6\Lab6PropClasses\obj\Debug\Lab6PropClasses.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Lab6\Lab6PropClasses\obj\Debug\Lab6PropClasses.csproj.CopyComplete
+C:\Users\Student\Desktop\Lab6\Lab6PropClasses\obj\Debug\Lab6PropClasses.dll
+C:\Users\Student\Desktop\Lab6\Lab6PropClasses\obj\Debug\Lab6PropClasses.pdb

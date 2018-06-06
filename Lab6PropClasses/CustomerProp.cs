@@ -99,8 +99,8 @@ namespace Lab6PropClasses
             this.Name = (string)dr["Name"];
             this.Address = (string)dr["Address"];
             this.City = (string)dr["City"];
-            this.State = (string)dr["State"];
-            this.Zipcode = (string)dr["ZipCode"];
+            this.State =( (string)dr["State"]).Trim();
+            this.Zipcode = ((string)dr["ZipCode"]).Trim();
             this.ConcurrencyID = (Int32)dr["ConcurrencyID"];
         }
     }

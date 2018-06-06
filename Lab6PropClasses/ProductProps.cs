@@ -36,11 +36,11 @@ namespace Lab6PropClasses
         /// <summary>
         /// 
         /// </summary>
-        public int quanitity = Int32.MinValue;
+        public int quanitity = 0;
         /// <summary>
         /// 
         /// </summary>
-        public decimal unitPrice = decimal.MinValue;
+        public decimal unitPrice = 0;
 
         /// <summary>
         /// ConcurrencyID. See main docs, don't manipulate directly
@@ -83,7 +83,7 @@ namespace Lab6PropClasses
         public void SetState(DBDataReader dr)
         {
             this.ID = (Int32)dr["ProductID"];
-            this.code = (string)dr["ProductCode"]; 
+            this.code = ((string)dr["ProductCode"]).Trim(); 
             this.description = (string)dr["Description"];
             this.quanitity = (Int32)dr["OnHandQuantity"];
             this.unitPrice = (decimal)dr["UnitPrice"];

@@ -42,7 +42,7 @@ namespace Lab6DBClasses
                 command.Parameters.Add("@UnitPrice", SqlDbType.Money);
                 command.Parameters.Add("@OnHandQuantity", SqlDbType.Int);
                 command.Parameters[0].Direction = ParameterDirection.Output;
-                command.Parameters["@ProductID"].Value = props.ID;
+               // command.Parameters["@ProductID"].Value = props.ID;
                 command.Parameters["@ProductCode"].Value = props.code;
                 command.Parameters["@Description"].Value = props.description;
                 command.Parameters["@UnitPrice"].Value = props.unitPrice;

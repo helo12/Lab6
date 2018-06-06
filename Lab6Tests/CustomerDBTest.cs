@@ -38,13 +38,13 @@ namespace Lab6Tests
         [Test]
         public void TestDelete()
         {
-            p = (CustomerProp)DB.Retrieve(1);
+            p = (CustomerProp)DB.Retrieve(2);
             Assert.True(DB.Delete(p));
         }
         [Test]
         public void TestRetrieveProduct()
         {
-            p = (CustomerProp)DB.Retrieve(2);
+            p = (CustomerProp)DB.Retrieve(3);
             Assert.True(p.Name == "TEST");
         }
         [Test]

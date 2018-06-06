@@ -36,7 +36,8 @@ namespace Lab6Tests
         [Test]
         public void TestDelete()
         {
-            p = (ProductProps)DB.Retrieve(6);
+            //this is a test of blah
+            p = (ProductProps)DB.Retrieve(8);
             Assert.True(DB.Delete(p));
         }
         [Test]
